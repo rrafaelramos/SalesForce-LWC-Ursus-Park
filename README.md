@@ -1,10 +1,3 @@
-# SalesForce-LWC-Ursus-Park
+# Ursus Park sample app for Trailhead project [Build Flexible Apps with Lightning Web Components](https://trailhead.salesforce.com/content/learn/projects/lwc-build-flexible-apps)
 
-Appling concepts of Lightning Web Components throughout this project: 
-
-Data binding;
-Expressions;
-Conditional rendering;
-Imperative and wired Apex;
-Component composition;
-Inter-component events.
+Note: we are not accepting contributions on this app.
